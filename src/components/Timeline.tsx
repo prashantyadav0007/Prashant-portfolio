@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle"></h4>
+            <h4 className="vertical-timeline-element-subtitle">live</h4>
             <p>
               Frontend Development, Backend Development, User Experience, Team Leading
             </p>
